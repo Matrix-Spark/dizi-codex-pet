@@ -2,7 +2,7 @@
 
 Dizi（谛仔）是一只友好机灵的黑白 Codex 动画宠物，拥有大号黑色三角耳、白色脸部和胸前的三道蓝色短线。
 
-![Dizi animation contact sheet](preview/contact-sheet.png)
+![Dizi animation contact sheet](contact-sheet.png)
 
 ## 安装方法
 
@@ -17,7 +17,7 @@ Dizi（谛仔）是一只友好机灵的黑白 Codex 动画宠物，拥有大号
 
 - `pet.json`：宠物名称、描述和图集路径。
 - `spritesheet.webp`：Codex 兼容的透明动画图集。
-- `preview/contact-sheet.png`：全部动画状态的预览图。
+- `contact-sheet.png`：全部动画状态的预览图。
 
 ## 图集规格
 
