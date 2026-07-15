@@ -1,6 +1,6 @@
 # Dizi Codex Pet
 
-Dizi（谛仔）是一只友好机灵的黑白 Codex 动画宠物，拥有大号黑色三角耳、白色脸部和胸前的三道蓝色短线。
+Dizi（小谛）是一只友好机灵的黑白动画宠物，拥有大号黑色耳朵、爱睡觉。
 
 ![Dizi animation contact sheet](contact-sheet.png)
 
