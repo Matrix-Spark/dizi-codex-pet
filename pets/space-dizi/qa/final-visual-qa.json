@@ -1,0 +1,10 @@
+{
+  "visual_qa": "pass",
+  "qa_note": "All rows preserve the white cat-astronaut identity and attached megaphone with readable state motion, clean silhouettes, stable scale, and an ordered direction loop whose four cardinals are unmistakable.",
+  "review_warnings": [
+    "Blind validation is ok with accepted vertical-axis ambiguity on intermediate diagonals.",
+    "Continuity metric outliers show no visible reversal, snap, registration jump, or scale pop.",
+    "Alpha-hole candidates are normal exterior gaps around helmet ears, limbs, and the attached megaphone with no sliced interior seam."
+  ],
+  "repair_rows": []
+}
