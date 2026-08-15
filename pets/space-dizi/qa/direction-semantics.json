@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "reviewed_by": "independent-final-visual-qa",
+  "directions": [
+    {"direction":"000","verdict":"pass","expected":"up","observed":"up","reason":"Raised face and chin contrast clearly with the bowed 180 cardinal."},
+    {"direction":"022.5","verdict":"warning","expected":"up-right","observed":"right with subtle up component","reason":"Nose and face are right of head center; vertical lift is subtle at normal size."},
+    {"direction":"045","verdict":"warning","expected":"up-right","observed":"right with subtle up component","reason":"Rightward landmark displacement is clear; vertical cue is understated."},
+    {"direction":"067.5","verdict":"warning","expected":"up-right","observed":"right with subtle up component","reason":"Head and nose aim right; ordered loop supplies the mild upward transition."},
+    {"direction":"090","verdict":"pass","expected":"right","observed":"right","reason":"Nose tip and facial surface project unmistakably to screen-right."},
+    {"direction":"112.5","verdict":"warning","expected":"down-right","observed":"right with subtle down component","reason":"Horizontal right cue is definite; downward pitch is mild at normal size."},
+    {"direction":"135","verdict":"warning","expected":"down-right","observed":"right with subtle down component","reason":"Nose remains right of head center while the head lowers along the loop."},
+    {"direction":"157.5","verdict":"warning","expected":"down-right","observed":"right with subtle down component","reason":"Rightward face is clear and the transition approaches the bowed 180 pose without reversal."},
+    {"direction":"180","verdict":"pass","expected":"down","observed":"down","reason":"Bowed face and lowered nose contrast clearly with 000 in all three blind reviews."},
+    {"direction":"202.5","verdict":"pass","expected":"down-left","observed":"down-left","reason":"Face is lowered and nose shifts to screen-left."},
+    {"direction":"225","verdict":"pass","expected":"down-left","observed":"down-left","reason":"Nose and eyes lie left of head center with a clearly lowered face."},
+    {"direction":"247.5","verdict":"pass","expected":"down-left","observed":"down-left","reason":"Strong leftward turn retains a readable downward pitch."},
+    {"direction":"270","verdict":"pass","expected":"left","observed":"left","reason":"Unmistakable screen-left profile with nose and facial surface projecting left."},
+    {"direction":"292.5","verdict":"warning","expected":"up-left","observed":"left with subtle up component","reason":"Left profile is definite; vertical rise is understated at normal size."},
+    {"direction":"315","verdict":"warning","expected":"up-left","observed":"left with subtle up component","reason":"Nose remains left of head center while the pose rises toward closure."},
+    {"direction":"337.5","verdict":"warning","expected":"up-left","observed":"left with subtle up component","reason":"Leftward landmark is clear; upward component is subtle before the 000 cardinal."}
+  ]
+}
